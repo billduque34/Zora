@@ -1,0 +1,30 @@
+.registerModal {
+  width: 40%;
+  height: 68%;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(198, 191, 250, 0.89);
+  background: rgb(255, 255, 255);
+}
+
+.submitButton {
+  background: rgb(133, 175, 255);
+}
+
+.formWidth {
+  width: 90%;
+}
+
+.submitButton:hover {
+  background: rgba(181, 207, 255, 0.77) 39%;
+  cursor: pointer;
+}
+
+.alreadyHaveAccountButton {
+  color: rgb(133, 175, 255);
+  border: 2px solid rgb(133, 175, 255);
+}
+
+.alreadyHaveAccountButton:hover {
+  background: rgba(181, 207, 255, 0.12);
+  cursor: pointer;
+}
